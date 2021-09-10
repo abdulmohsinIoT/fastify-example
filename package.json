@@ -1,0 +1,22 @@
+{
+  "name": "fastify-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulmohsinIoT/fastify-example.git"
+  },
+  "author": "Abdul Mohsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulmohsinIoT/fastify-example/issues"
+  },
+  "homepage": "https://github.com/abdulmohsinIoT/fastify-example#readme",
+  "dependencies": {
+    "fastify": "^3.21.0"
+  }
+}
